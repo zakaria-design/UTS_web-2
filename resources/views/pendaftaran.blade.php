@@ -61,7 +61,7 @@
     <!-- Header Halaman -->
     <div class="d-flex justify-content-between align-items-end mb-4">
         <div>
-            <h3 class="fw-bold mb-0">Sistem Pendaftaran Mahasiswa</h3>
+            <h3 class="fw-bold mb-0">Sistem Rekap Pendaftaran Mahasiswa</h3>
             <p class="text-muted small mb-0">Manajemen data pendaftar baru</p>
         </div>
         <div>
@@ -140,6 +140,11 @@
         </div>
     </div>
 </div>
+
+<footer class="main-footer text-center small" 
+        style="position: fixed; bottom: 0; left: 0; width: 100%; background: #f8f9fa; padding: 10px 20px; font-size: 12px; text-align: left;">
+    Copyright &copy; 2026 powered with ❤️ by @zakaria
+</footer>
 
 <script>
 function resetData() {
