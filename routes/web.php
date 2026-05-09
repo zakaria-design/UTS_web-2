@@ -2,6 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/zakaria-221011450283', function () {
+Route::get('/', function () {
     return view('pendaftaran');
 })->name('pendaftaran.index');
